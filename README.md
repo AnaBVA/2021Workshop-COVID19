@@ -43,6 +43,25 @@ According to the United Nations, in the last years, the world has shown an incre
 
 ------
 
+## Resources
+
+Useful resources:
+
+- [Seurat](https://satijalab.org/seurat/)
+
+- [Seurat-Clustering_Tutorial]( https://satijalab.org/seurat/articles/pbmc3k_tutorial.html)
+
+- [Seurat-Visualization_Tutorial](https://satijalab.org/seurat/articles/visualization_vignette.html)
+
+- [Data-to-viz](https://www.data-to-viz.com/): The most appropiated graph for your data
+
+- [The R Graph Gallery](https://www.r-graph-gallery.com/)
+
+- [R2D3](https://blog.rstudio.com/2018/10/05/r2d3-r-interface-to-d3-visualizations/): R interface to D3 visualizations
+
+
+------
+
 ## Additional data
 
 - **Paper:**  [Wauters, E., Van Mol, P., Garg, A.D., Jansen, S., Van Herck, Y., Vanderbeke, L., Bassez, A., Boeckx, B., Malengier-Devlies, B., Timmerman, A. and Van Brussel, T., 2021. Discriminating mild from critical COVID-19 by innate and adaptive immune single-cell profiling of bronchoalveolar lavages. Cell research, pp.1-19.](https://www.nature.com/articles/s41422-020-00455-9)
