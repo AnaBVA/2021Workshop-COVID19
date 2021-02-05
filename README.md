@@ -27,7 +27,7 @@ According to the United Nations, in the last years, the world has shown an incre
 
 ## Data 
 
-- **Paper:**  (- Authors: Chua, R.L., Lukassen, S., Trump, S., Hennig, B.P., Wendisch, D., Pott, F., Debnath, O., Thürmann, L., Kurth, F., Völker, M.T. and Kazmierski, J., 2020. COVID-19 severity correlates with airway epithelium–immune cell interactions identified by single-cell analysis. Nature biotechnology, 38(8), pp.970-979.)[https://www.nature.com/articles/s41587-020-0602-4]
+- **Paper:**  [ Authors: Chua, R.L., Lukassen, S., Trump, S., Hennig, B.P., Wendisch, D., Pott, F., Debnath, O., Thürmann, L., Kurth, F., Völker, M.T. and Kazmierski, J., 2020. COVID-19 severity correlates with airway epithelium–immune cell interactions identified by single-cell analysis. Nature biotechnology, 38(8), pp.970-979.](https://www.nature.com/articles/s41587-020-0602-4)
 
 - **Tissue:** BALF
 
@@ -35,9 +35,9 @@ According to the United Nations, in the last years, the world has shown an incre
 
 - **Samples:** 5 Controls and 19 COVID19 patients
 
-- **Download data:** (Data)[https://figshare.com/articles/dataset/COVID-19_severity_correlates_with_airway_epithelium-immune_cell_interactions_identified_by_single-cell_analysis/12436517] has already been downloaded in the server (kneipe.lavis.unam.mx).
+- **Download data:** [Data](https://figshare.com/articles/dataset/COVID-19_severity_correlates_with_airway_epithelium-immune_cell_interactions_identified_by_single-cell_analysis/12436517) has already been downloaded in the server (kneipe.lavis.unam.mx). You can find it in the directory:
 
-      - **Path:** /home/bana/balf_human_Chua 
+      /home/bana/balf_human_Chua 
 
 - **Raw sequencing:** https://ega-archive.org/datasets/EGAD00001006339/files
 
@@ -45,7 +45,7 @@ According to the United Nations, in the last years, the world has shown an incre
 
 ## Additional data
 
-- **Paper:**  (Wauters, E., Van Mol, P., Garg, A.D., Jansen, S., Van Herck, Y., Vanderbeke, L., Bassez, A., Boeckx, B., Malengier-Devlies, B., Timmerman, A. and Van Brussel, T., 2021. Discriminating mild from critical COVID-19 by innate and adaptive immune single-cell profiling of bronchoalveolar lavages. Cell research, pp.1-19.)[https://www.nature.com/articles/s41422-020-00455-9]
+- **Paper:**  [Wauters, E., Van Mol, P., Garg, A.D., Jansen, S., Van Herck, Y., Vanderbeke, L., Bassez, A., Boeckx, B., Malengier-Devlies, B., Timmerman, A. and Van Brussel, T., 2021. Discriminating mild from critical COVID-19 by innate and adaptive immune single-cell profiling of bronchoalveolar lavages. Cell research, pp.1-19.](https://www.nature.com/articles/s41422-020-00455-9)
 
 - **Tissue:** BALF
 
