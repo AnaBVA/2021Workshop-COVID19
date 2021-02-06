@@ -24,6 +24,8 @@ According to the United Nations, in the last years, the world has shown an incre
 
     h) To present the results
 
+- [Slides](https://www.canva.com/design/DAEVYuo3T18/hsrXi3SWhVBEzciYZpk8ww/view?utm_content=DAEVYuo3T18&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
+
 
 ## Data 
 
@@ -47,17 +49,24 @@ According to the United Nations, in the last years, the world has shown an incre
 
 Useful resources:
 
+### singleCell RNA-seq
+
 - [Seurat](https://satijalab.org/seurat/)
 
 - [Seurat-Clustering_Tutorial]( https://satijalab.org/seurat/articles/pbmc3k_tutorial.html)
 
 - [Seurat-Visualization_Tutorial](https://satijalab.org/seurat/articles/visualization_vignette.html)
 
+
+### Visualization
+
 - [Data-to-viz](https://www.data-to-viz.com/): The most appropiated graph for your data
 
 - [The R Graph Gallery](https://www.r-graph-gallery.com/)
 
 - [R2D3](https://blog.rstudio.com/2018/10/05/r2d3-r-interface-to-d3-visualizations/): R interface to D3 visualizations
+
+- [plotly](https://plotly.com/r/)
 
 
 ------
