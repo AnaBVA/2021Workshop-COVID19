@@ -1,6 +1,6 @@
 # 2021Workshop-COVID19
 
-## Single cell RNA seq visualization 
+## Single-cell COVID-19 data visualization
 
 According to the United Nations, in the last years, the world has shown an increase in population aging and, as a consequence, chronic age-related diseases. From a national perspective, chronic diseases have severe implications in life expectancy and, as a result, generate economic and political pressures. This year with the COVID-19 pandemic, we have been trying to understand if survivors who have been seriously ill will have some sequelae such as pulmonary fibrosis, an irreversible chronic disease. High-throughput technologies have evolved too fast in the last years, and nowadays, single-cell RNA sequencing has become more popular because of the amount of information that we can obtain measuring thousands of single cells in one experiment. This project is focused on analyzing published single-cell data of COVID-19 and look if we can find some known biomarkers of pulmonary fibrosis. We will try classical visualization tools for single-cell data using R packages, but we will be creative and find new ways of visualizing data for finding patterns. Our main objective would be to guide hypothesis generation through the visualization of single-cell COVID data.
 
@@ -68,6 +68,9 @@ Useful resources:
 
 - [plotly](https://plotly.com/r/)
 
+## Others
+
+- [Basic concepts](https://www.lecturio.com/=
 
 ------
 
