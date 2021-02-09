@@ -76,6 +76,22 @@ Useful resources:
 
 ------
 
+## Activities
+
+### Day 2
+
+- Import `.RDS` object into R
+
+- Explore the `balf_human_Chua/covid_nbt_loc.rds` and `balf_human_Chua/covid_nbt_main.rds` objects and decide which one to use
+
+- Plot a PCA, tSNE and UMAP. Discuss the results
+
+- Is there any better visualization for the output of `VizDimLoadings(pbmc, dims = 1:2, reduction = "pca")`?
+
+- Can you reproduce the UMAP [Fig 2](https://www.nature.com/articles/s41587-020-0602-4/figures/2) from the paper?
+
+------
+
 ## Additional data
 
 - **Paper:**  [Wauters, E., Van Mol, P., Garg, A.D., Jansen, S., Van Herck, Y., Vanderbeke, L., Bassez, A., Boeckx, B., Malengier-Devlies, B., Timmerman, A. and Van Brussel, T., 2021. Discriminating mild from critical COVID-19 by innate and adaptive immune single-cell profiling of bronchoalveolar lavages. Cell research, pp.1-19.](https://www.nature.com/articles/s41422-020-00455-9)
