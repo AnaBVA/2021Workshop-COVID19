@@ -92,6 +92,15 @@ Useful resources:
 
 - Can you reproduce the UMAP [Fig 2](https://www.nature.com/articles/s41587-020-0602-4/figures/2) from the paper?
 
+### Day3
+
+1) Creativity to propose different visualization plots (Leo)
+
+2) Pulmonary Fibrosis in COVID-19: Biomarkers of Pulmonary fibrosis (Saul)
+
+3) Enrchiment analysis in scRNAseq data of COVID-19 (Basal, Ciliated, and Macrophages)  (Ana, Juwy)
+
+
 ------
 
 ## Additional data
