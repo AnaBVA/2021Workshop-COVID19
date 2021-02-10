@@ -74,7 +74,14 @@ Useful resources:
 
 ## Others
 
-- [Basic concepts](https://www.lecturio.com/=
+- [Basic concepts](https://www.lecturio.com/)
+
+## Pulmonary fibrosis 
+
+- [Wijsenbeek, Marlies, and Vincent Cottin. "Spectrum of fibrotic lung diseases." New England Journal of Medicine 383.10 (2020): 958-968.](https://www.nejm.org/doi/full/10.1056/NEJMra2005230?casa_token=LUjzzYwonSUAAAAA:4P5vQva0tnVikeKH34AhyhzLzkgQ5oIKnGz2n2ko3JQWBZ1ys33e6oOMvNqR9tkxYvqkemGDPJWcTdRvqw)
+
+- [Lopez-Leon, Sandra, et al. "More than 50 Long-term effects of COVID-19: a systematic review and meta-analysis." Available at SSRN 3769978 (2021).](https://www.medrxiv.org/content/10.1101/2021.01.27.21250617v2)
+
 
 ------
 
