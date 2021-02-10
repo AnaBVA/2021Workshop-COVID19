@@ -72,6 +72,17 @@ Useful resources:
 
 - [plotly](https://plotly.com/r/)
 
+## Enrichment analysis 
+
+- [hyperR](https://montilab.github.io/hypeR-workshop/articles/hyper_workshop.html)
+
+- [TopGO](https://bioconductor.org/packages/release/bioc/html/topGO.html)
+
+## Co-expression networks 
+
+- [CoDiNA](https://deisygysi.github.io/rpackages/Pack-2)
+
+
 ## Others
 
 - [Basic concepts](https://www.lecturio.com/)
