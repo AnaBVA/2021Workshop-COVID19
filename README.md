@@ -59,7 +59,7 @@ Useful resources:
 
 - [Seurat-Visualization_Tutorial](https://satijalab.org/seurat/articles/visualization_vignette.html)
 
-- [Seurat Command list] (https://satijalab.org/seurat/articles/essential_commands.html)
+- [Seurat Command list](https://satijalab.org/seurat/articles/essential_commands.html)
 
 
 ### Visualization
