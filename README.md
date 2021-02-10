@@ -47,54 +47,6 @@ According to the United Nations, in the last years, the world has shown an incre
 
 ------
 
-## Resources
-
-Useful resources:
-
-### singleCell RNA-seq
-
-- [Seurat](https://satijalab.org/seurat/)
-
-- [Seurat-Clustering_Tutorial]( https://satijalab.org/seurat/articles/pbmc3k_tutorial.html)
-
-- [Seurat-Visualization_Tutorial](https://satijalab.org/seurat/articles/visualization_vignette.html)
-
-- [Seurat Command list](https://satijalab.org/seurat/articles/essential_commands.html)
-
-
-### Visualization
-
-- [Data-to-viz](https://www.data-to-viz.com/): The most appropiated graph for your data
-
-- [The R Graph Gallery](https://www.r-graph-gallery.com/)
-
-- [R2D3](https://blog.rstudio.com/2018/10/05/r2d3-r-interface-to-d3-visualizations/): R interface to D3 visualizations
-
-- [plotly](https://plotly.com/r/)
-
-## Enrichment analysis 
-
-- [hyperR](https://montilab.github.io/hypeR-workshop/articles/hyper_workshop.html)
-
-- [TopGO](https://bioconductor.org/packages/release/bioc/html/topGO.html)
-
-## Co-expression networks 
-
-- [CoDiNA](https://deisygysi.github.io/rpackages/Pack-2)
-
-
-## Others
-
-- [Basic concepts](https://www.lecturio.com/)
-
-## Pulmonary fibrosis 
-
-- [Wijsenbeek, Marlies, and Vincent Cottin. "Spectrum of fibrotic lung diseases." New England Journal of Medicine 383.10 (2020): 958-968.](https://www.nejm.org/doi/full/10.1056/NEJMra2005230?casa_token=LUjzzYwonSUAAAAA:4P5vQva0tnVikeKH34AhyhzLzkgQ5oIKnGz2n2ko3JQWBZ1ys33e6oOMvNqR9tkxYvqkemGDPJWcTdRvqw)
-
-- [Lopez-Leon, Sandra, et al. "More than 50 Long-term effects of COVID-19: a systematic review and meta-analysis." Available at SSRN 3769978 (2021).](https://www.medrxiv.org/content/10.1101/2021.01.27.21250617v2)
-
-
-------
 
 ## Activities
 
@@ -117,6 +69,58 @@ Useful resources:
 2) Pulmonary Fibrosis in COVID-19: Biomarkers of Pulmonary fibrosis (Saul)
 
 3) Enrchiment analysis in scRNAseq data of COVID-19 (Basal, Ciliated, and Macrophages)  (Ana, Juwy)
+
+
+------
+
+## Resources
+
+Useful resources:
+
+### singleCell RNA-seq
+
+- [Seurat](https://satijalab.org/seurat/)
+
+- [Seurat-Clustering_Tutorial]( https://satijalab.org/seurat/articles/pbmc3k_tutorial.html)
+
+- [Seurat-Visualization_Tutorial](https://satijalab.org/seurat/articles/visualization_vignette.html)
+
+- [Seurat Command list](https://satijalab.org/seurat/articles/essential_commands.html)
+
+- [Seurat-Condition_vs_Treatment](https://satijalab.org/seurat/archive/v3.0/immune_alignment.html)
+
+
+### Visualization
+
+- [Data-to-viz](https://www.data-to-viz.com/): The most appropiated graph for your data
+
+- [The R Graph Gallery](https://www.r-graph-gallery.com/)
+
+- [R2D3](https://blog.rstudio.com/2018/10/05/r2d3-r-interface-to-d3-visualizations/): R interface to D3 visualizations
+
+- [plotly](https://plotly.com/r/)
+
+### Enrichment analysis 
+
+- [hyperR](https://montilab.github.io/hypeR-workshop/articles/hyper_workshop.html)
+
+- [TopGO](https://bioconductor.org/packages/release/bioc/html/topGO.html)
+
+### Co-expression networks 
+
+- [CoDiNA](https://deisygysi.github.io/rpackages/Pack-2)
+
+
+### Others
+
+- [Basic concepts](https://www.lecturio.com/)
+
+### Pulmonary fibrosis 
+
+- [Wijsenbeek, Marlies, and Vincent Cottin. "Spectrum of fibrotic lung diseases." New England Journal of Medicine 383.10 (2020): 958-968.](https://www.nejm.org/doi/full/10.1056/NEJMra2005230?casa_token=LUjzzYwonSUAAAAA:4P5vQva0tnVikeKH34AhyhzLzkgQ5oIKnGz2n2ko3JQWBZ1ys33e6oOMvNqR9tkxYvqkemGDPJWcTdRvqw)
+
+- [Lopez-Leon, Sandra, et al. "More than 50 Long-term effects of COVID-19: a systematic review and meta-analysis." Available at SSRN 3769978 (2021).](https://www.medrxiv.org/content/10.1101/2021.01.27.21250617v2)
+
 
 
 ------
