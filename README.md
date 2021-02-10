@@ -106,5 +106,6 @@ Useful resources:
 
 - **Count matrix:** http://covid19.lambrechtslab.org/
 
+- **Seurat Command List** https://satijalab.org/seurat/articles/essential_commands.html
 
 
